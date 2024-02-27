@@ -11,6 +11,11 @@ body {
     max-width: 25em;
     max-height: 30em;
 }
+
+#photo2 {
+    max-width: 20em;
+    max-height: 30em;
+}
 /* .-ga viitame elemenditele, millel on selline class */
 .container {
     display: flex;
@@ -24,6 +29,11 @@ body {
     max-height: 25em;
     overflow-x: hidden;
     overflow-y: auto;
+
+font-family: Comic Sans MS;
+font-size: 18px;
+color: saddlebrown;
+text-decoration: underline;
 }
 
 .card {
